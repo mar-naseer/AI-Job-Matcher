@@ -8,7 +8,7 @@ A lightweight AI-powered tool to check how well your resume matches a job descri
 ## 🔍 Use Case
 
 **Tired of not knowing whether your resume fits a job role?**  
-This app helps job seekers, students, and freelancers quickly:
+I have made this app which helps job seekers, students, and freelancers quickly:
 
 - ✅ Compare Resume with Job Description (PDF/DOCX)
 - ✅ Get a Match Score using ML-based semantic similarity
