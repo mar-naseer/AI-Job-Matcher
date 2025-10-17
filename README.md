@@ -5,7 +5,7 @@ A lightweight AI-powered tool to check how well your resume matches a job descri
 
 ---
 
-## 🔍 Use Case
+# 🔍 Use Case
 
 **Tired of not knowing whether your resume fits a job role?**  
 I have made this app which helps job seekers, students, and freelancers quickly:
