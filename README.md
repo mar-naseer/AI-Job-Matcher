@@ -29,7 +29,7 @@ I have made this app which helps job seekers, students, and freelancers quickly:
 
 ---
 
-## 📦 Tech Stack
+## 📦 Tech Stac
 
 - Python 3
 - Streamlit
