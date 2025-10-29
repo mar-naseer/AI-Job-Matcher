@@ -31,7 +31,7 @@ I have made this app which helps job seekers, students, and freelancers quickly:
 
 ## 📦 Tech Stac
 
-- Python 3
+- Programming: Python 3
 - Streamlit
 - sentence-transformers (`all-MiniLM-L6-v2`)
 - pdfplumber + docx2txt
