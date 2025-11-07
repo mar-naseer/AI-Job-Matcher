@@ -10,10 +10,10 @@ A lightweight AI-powered tool to check how well your resume matches a job descri
 **Tired of not knowing whether your resume fits a job role?**  
 I have made this app which helps job seekers, students, and freelancers quickly:
 
-- ✅ Compare Resume with Job Description (PDF/DOCX)
-- ✅ Get a Match Score using ML-based semantic similarity
-- ✅ Find Missing Skills from JD
-- ✅ Auto-generate a tailored Cover Letter (Free, no OpenAI required)
+- ✅ Compare Resume with Job Description (PDF/DOCX).
+- ✅ Get a Match Score using ML-based semantic similarity.
+- ✅ Find Missing Skills from JD.
+- ✅ Auto-generate a tailored Cover Letter (Free, no OpenAI required).
 
 ---
 
@@ -31,12 +31,12 @@ I have made this app which helps job seekers, students, and freelancers quickly:
 
 ## 📦 Tech Stac
 
-- Programming: Python 3
-- Streamlit
-- sentence-transformers (`all-MiniLM-L6-v2`)
-- pdfplumber + docx2txt
-- scikit-learn
-- (Optional) OpenAI API for GPT-based cover letters
+- Programming: Python 3.
+- Streamlit.
+- sentence-transformers (`all-MiniLM-L6-v2`).
+- pdfplumber + docx2txt.
+- scikit-learn.
+- (Optional) OpenAI API for GPT-based cover letters.
 
 ---
 
