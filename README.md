@@ -40,6 +40,7 @@ I have made this app which helps job seekers, students, and freelancers quickly:
 
 ---
 
+
 ## 🚀 How to Run Locally
 
 ```bash
