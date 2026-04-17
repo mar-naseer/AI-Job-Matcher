@@ -1,5 +1,5 @@
 
-# 🤖 AI Job Matching Assistant
+# 🤖 AI Job Matching Assistant!
 
 A lightweight AI-powered tool to check how well your resume matches a job description, identify missing skills, and generate a personalized cover letter — all in one simple app.
 
