@@ -39,6 +39,7 @@ I have made this app which helps job seekers, students, and freelancers quickly:
 - scikit-learn.
 - OpenAI API for GPT-based cover letters.
 
+
 ---
 
 
