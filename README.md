@@ -3,7 +3,6 @@
 
 A lightweight AI-powered tool to check how well your resume matches a job description, identify missing skills, and generate a personalized cover letter — all in one simple app.
 
-
 ---
 
 # 🔍 **Use Case!**
@@ -39,9 +38,7 @@ I have made this app which helps job seekers, students, and freelancers quickly:
 - scikit-learn.
 - OpenAI API for GPT-based cover letters.
 
-
 ---
-
 
 ## 🚀 How to Run Locally
 
