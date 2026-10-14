@@ -14,6 +14,7 @@ I have made this app which helps job seekers, students, and freelancers quickly:
 - ✅ Find Missing Skills from JD.
 - ✅ Auto-generate a tailored Cover Letter (Free, no OpenAI required).
 
+
 ---
 
 ## ⚙️ Features
